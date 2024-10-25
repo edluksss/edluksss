@@ -1,5 +1,8 @@
-## Hi there 👋
+## Bienvenido 👋
+Soy graduado en Ciencia e Ingeniería de Datos por la Universidade da Coruña (UDC), con un gran interés en el campo del Machine Learning, especialmente en la Visión por Computador. Este es mi perfil personal de GitHub, donde compartiré muchos de los proyectos que estoy desarrollando o que ya he completado. Espero que disfrutes explorando mi trabajo y que te sea de ayuda en lo que estés buscando 😉.
 
+## Welcome 👋
+I hold a degree in Data Science and Engineering from the Universidade da Coruña (UDC), with a strong interest in Machine Learning, particularly in Computer Vision. This is my personal GitHub profile, where I will share many of the projects I'm currently developing or have already completed. I hope you enjoy exploring my work and find it helpful for what you are looking for 😉.
 <!--
 **edluksss/edluksss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
